@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\bin\Debug\EsemkaCorporation.exe
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\bin\Debug\EsemkaCorporation.exe.config
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\obj\Debug\EsemkaCorporation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\obj\Debug\EsemkaCorporation.Login.resources
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\obj\Debug\EsemkaCorporation.MainForm.resources
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\obj\Debug\EsemkaCorporation.Mutation.resources
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\obj\Debug\EsemkaCorporation.Profile.resources
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\obj\Debug\EsemkaCorporation.Promotion.resources
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\obj\Debug\EsemkaCorporation.Properties.Resources.resources
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\obj\Debug\EsemkaCorporation.csproj.GenerateResource.cache
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\obj\Debug\EsemkaCorporation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\obj\Debug\EsemkaCorporation.exe
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\obj\Debug\EsemkaCorporation.pdb
+C:\Users\user\source\repos\EsemkaCorporation\EsemkaCorporation\bin\Debug\EsemkaCorporation.pdb

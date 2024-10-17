@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|C:\\Users\\user\\source\\repos\\EsemkaCorporation\\esemkacorporation\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|C:\\Users\\user\\source\\repos\\EsemkaCorporation\\esemkacorporation\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|C:\\Users\\user\\source\\repos\\EsemkaCorporation\\esemkacorporation\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|C:\\Users\\user\\source\\repos\\EsemkaCorporation\\esemkacorporation\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|c:\\users\\user\\source\\repos\\esemkacorporation\\esemkacorporation\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|C:\\Users\\user\\source\\repos\\EsemkaCorporation\\esemkacorporation\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|C:\\Users\\user\\source\\repos\\EsemkaCorporation\\esemkacorporation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|C:\\Users\\user\\source\\repos\\EsemkaCorporation\\esemkacorporation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|C:\\Users\\user\\source\\repos\\EsemkaCorporation\\esemkacorporation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|C:\\Users\\user\\source\\repos\\EsemkaCorporation\\esemkacorporation\\loggedinemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\loggedinemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|C:\\Users\\user\\source\\repos\\EsemkaCorporation\\esemkacorporation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|C:\\Users\\user\\source\\repos\\EsemkaCorporation\\esemkacorporation\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|C:\\Users\\user\\source\\repos\\EsemkaCorporation\\esemkacorporation\\loggedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E801E9EB-0B1E-44FB-A378-DCB3D49214B0}|EsemkaCorporation\\EsemkaCorporation.csproj|solutionrelative:esemkacorporation\\loggedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\MainForm.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\MainForm.cs [Design]",
+              "RelativeToolTip": "EsemkaCorporation\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:24:39.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Profile.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\Profile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Profile.cs [Design]",
+              "RelativeToolTip": "EsemkaCorporation\\Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:32:42.411Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Profile.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\Profile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Profile.cs",
+              "RelativeToolTip": "EsemkaCorporation\\Profile.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAjwKUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:09:31.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mutation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Mutation.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\Mutation.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Mutation.cs [Design]",
+              "RelativeToolTip": "EsemkaCorporation\\Mutation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:45:24.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mutation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Mutation.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\Mutation.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Mutation.cs",
+              "RelativeToolTip": "EsemkaCorporation\\Mutation.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAArwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:49:00.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Promotion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Promotion.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\Promotion.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Promotion.cs [Design]",
+              "RelativeToolTip": "EsemkaCorporation\\Promotion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:49:07.294Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Promotion.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\Promotion.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Promotion.cs",
+              "RelativeToolTip": "EsemkaCorporation\\Promotion.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAYwF0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:39:51.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Login.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\Login.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Login.cs",
+              "RelativeToolTip": "EsemkaCorporation\\Login.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:51:26.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Login.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\Login.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Login.cs [Design]",
+              "RelativeToolTip": "EsemkaCorporation\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:14:50.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoggedInEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\LoggedInEmployee.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\LoggedInEmployee.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\LoggedInEmployee.cs",
+              "RelativeToolTip": "EsemkaCorporation\\LoggedInEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:32:41.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\MainForm.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\MainForm.cs",
+              "RelativeToolTip": "EsemkaCorporation\\MainForm.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:54:16.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Connect.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\Connect.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\Connect.cs",
+              "RelativeToolTip": "EsemkaCorporation\\Connect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:09:38.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoggedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\LoggedEmployee.cs",
+              "RelativeDocumentMoniker": "EsemkaCorporation\\LoggedEmployee.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EsemkaCorporation\\EsemkaCorporation\\LoggedEmployee.cs",
+              "RelativeToolTip": "EsemkaCorporation\\LoggedEmployee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIA1wBQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:32:28.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
